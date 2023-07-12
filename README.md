@@ -25,9 +25,7 @@ SatOrb is a Python-based repository that allows you to simulate a satellite's Lo
 
 1. Run the `satellite_gui.py` script to launch the GUI:
 
-   ```shell
    python satellite_gui.py
-   ```
 
 2. Input the launch position and speed in the GUI fields.
 
