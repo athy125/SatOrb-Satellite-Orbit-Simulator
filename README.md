@@ -23,7 +23,7 @@ SatOrb is a Python-based repository that allows you to simulate a satellite's Lo
 
 ## Usage
 
-1. Run the Satorb.py` script to launch the GUI:
+1. Run the Satorb.py script to launch the GUI:
 
    python Satorb.py
 ```
