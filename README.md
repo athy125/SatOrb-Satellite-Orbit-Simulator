@@ -45,11 +45,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgments
 
 - This project was inspired by the need to visualize satellite orbits and ground tracks.
-- The numerical integration method used in this project is based on [Runge-Kutta](https://en.wikipedia.org/wiki/Runge%E2%80%93Kutta_methods).
-
-## Contact
-
-For any questions or inquiries, please contact [atharvajoshi477@gmail.com](mailto:atharvajoshi477@gmail.com).
+- The numerical integration method used in this project is based on [Runge-Kutta](https://en.wikipedia.org/wiki/Runge%E2%80%93Kutta_methods)
 ```
 
 Feel free to modify and customize this README file according to your project's specific details, such as adding acknowledgments, additional usage instructions, or contact information.
